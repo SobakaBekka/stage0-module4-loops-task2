@@ -9,7 +9,7 @@ public class WordsBuilder {
             phrase += chars[index];
             index++;
         }
-        System.out.println(phrase);
+        System.out.println(phrase + "");
 
        }
     }
