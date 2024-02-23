@@ -5,7 +5,7 @@ public class WordsBuilder {
 
         String phrase = "";
         int index = 0;
-        while (index < chars.length){//fsfs
+        while (index < chars.length){
             index++;
         }
         System.out.println(phrase);
