@@ -6,7 +6,7 @@ public class PowerOfTwo {
         if (power < 0){
             System.out.println("too much power");
         }else{
-            int count = 0;
+            int count = 0;//fsfs
             while(count <= power){
                 int result = (int) Math.pow(2, count);
                 count++;

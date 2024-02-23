@@ -14,7 +14,7 @@ public class Multiplication {
                 System.out.println(number * number);
                 number--;
 
-            }
+            }//fsfs
         }
     }
 }
