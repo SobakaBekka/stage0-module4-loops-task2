@@ -8,7 +8,7 @@ public class FactorialNumbers {
         int count;
         while (number <= printToInclusive){
             faktorial = 1;
-            count = 1;
+            count = 1;//f
             while (count <= number){
                 faktorial *= count;
                 count++;
