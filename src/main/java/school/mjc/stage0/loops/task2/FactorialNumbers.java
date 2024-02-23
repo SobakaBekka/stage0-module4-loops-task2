@@ -4,11 +4,11 @@ public class FactorialNumbers {
     public void printFactorialRow(int printToInclusive) {
 
         int faktorial;
-        int number = 1;
+        int number = 0;
         int count;
         while (number <= printToInclusive){
-            faktorial = 1;
-            count = 1;//f
+            faktorial = 0;
+            count = 1;
             while (count <= number){
                 faktorial *= count;
                 count++;
